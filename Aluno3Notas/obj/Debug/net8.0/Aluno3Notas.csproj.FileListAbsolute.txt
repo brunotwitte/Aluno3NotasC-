@@ -1,0 +1,14 @@
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\obj\Debug\net8.0\Aluno3Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\obj\Debug\net8.0\Aluno3Notas.AssemblyInfoInputs.cache
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\obj\Debug\net8.0\Aluno3Notas.AssemblyInfo.cs
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\obj\Debug\net8.0\Aluno3Notas.csproj.CoreCompileInputs.cache
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\bin\Debug\net8.0\Aluno3Notas.exe
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\bin\Debug\net8.0\Aluno3Notas.deps.json
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\bin\Debug\net8.0\Aluno3Notas.runtimeconfig.json
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\bin\Debug\net8.0\Aluno3Notas.dll
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\bin\Debug\net8.0\Aluno3Notas.pdb
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\obj\Debug\net8.0\Aluno3Notas.dll
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\obj\Debug\net8.0\refint\Aluno3Notas.dll
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\obj\Debug\net8.0\Aluno3Notas.pdb
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\obj\Debug\net8.0\Aluno3Notas.genruntimeconfig.cache
+C:\Users\casa\source\repos\Aluno3Notas\Aluno3Notas\obj\Debug\net8.0\ref\Aluno3Notas.dll
